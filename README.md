@@ -10,12 +10,6 @@
 
 A beautiful and responsive **Analog Clock** built using **HTML**, **CSS**, and **JavaScript**. This clock displays real-time hours, minutes, and seconds with smooth transitions and classic styling.
 
----
-
-## 📸 Preview
-
-![Analog Clock Preview](preview.png)  
-<sub>*You can replace this with your actual screenshot or a GIF of the clock in action.*</sub>
 
 ---
 
