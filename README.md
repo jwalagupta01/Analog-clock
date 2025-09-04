@@ -37,9 +37,9 @@ A beautiful and responsive **Analog Clock** built using **HTML**, **CSS**, and *
 
 ---
 
-## 📂 Folder Structure
-analog-clock/
-│
+## 📂 Folder Structure  
+analog-clock/  
+│  
 ├── index.html     # Main HTML file (structure of the clock)  
 ├── style.css      # CSS file (styling the clock and animations)  
 ├── script.js      # JavaScript file (logic for clock movement)  
