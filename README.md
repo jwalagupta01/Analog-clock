@@ -36,7 +36,7 @@ A beautiful and responsive **Analog Clock** built using **HTML**, **CSS**, and *
 - **JavaScript (ES6+)** – Time logic and animations
 
 ---
-
+<pre>
 ## 📂 Folder Structure  
 analog-clock/  
 │  
@@ -45,3 +45,4 @@ analog-clock/
 ├── script.js      # JavaScript file (logic for clock movement)  
 ├── img/           # (Optional) Screenshot or GIF of your clock  
 └── README.md      # Project documentation  
+</pre>
